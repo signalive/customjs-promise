@@ -1,0 +1,25 @@
+{
+  "name": "customjs-promise",
+  "version": "0.1.0",
+  "description": "A promise wrapper for LGE Custom.js library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/signalive/customjs-promise.git"
+  },
+  "keywords": [
+    "custom.js",
+    "lg",
+    "webos",
+    "webos-signage"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/signalive/customjs-promise/issues"
+  },
+  "homepage": "https://github.com/signalive/customjs-promise#readme"
+}
